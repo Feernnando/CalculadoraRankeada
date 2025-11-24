@@ -1,0 +1,14 @@
+C:\dev\CalculadoraRankeada\bin\Debug\net9.0\CalculadoraRankeada.exe
+C:\dev\CalculadoraRankeada\bin\Debug\net9.0\CalculadoraRankeada.deps.json
+C:\dev\CalculadoraRankeada\bin\Debug\net9.0\CalculadoraRankeada.runtimeconfig.json
+C:\dev\CalculadoraRankeada\bin\Debug\net9.0\CalculadoraRankeada.dll
+C:\dev\CalculadoraRankeada\bin\Debug\net9.0\CalculadoraRankeada.pdb
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.AssemblyInfoInputs.cache
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.AssemblyInfo.cs
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.csproj.CoreCompileInputs.cache
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.dll
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\refint\CalculadoraRankeada.dll
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.pdb
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\CalculadoraRankeada.genruntimeconfig.cache
+C:\dev\CalculadoraRankeada\obj\Debug\net9.0\ref\CalculadoraRankeada.dll
