@@ -17,8 +17,8 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem : "O Herói tem o saldo de {saldoVitorias} está no nivel {nivel}"
 
 ##O que foi utilizado : 
-Variaveis 
-Operadores
-Laços de repetição
-Estrturas de decisões
-Funções.
+ - Variaveis 
+ - Operadores
+ - Laços de repetição
+ - Estrturas de decisões
+ - Funções.
